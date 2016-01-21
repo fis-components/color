@@ -1,12 +1,12 @@
 {
     "name": "color",
     "description": "Color conversion and manipulation with CSS string support",
-    "repos": "https://github.com/harthur/color.git",
+    "repos": "https://github.com/MoOx/color.git",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
         "color-convert": "^0.5.3",
         "color-string": "^0.3.0"
     },
-    "version": "0.11.0"
+    "version": "0.11.1"
 }
